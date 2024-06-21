@@ -1,0 +1,4 @@
+﻿  asdf.c
+C:\Users\dlwns\source\repos\stringsort\stringsort\asdf.c(7,1): warning C4005: 'max': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1282,1): message : 'max'의 이전 정의를 참조하십시오.
+  stringsort.vcxproj -> C:\Users\dlwns\source\repos\stringsort\x64\Debug\stringsort.exe

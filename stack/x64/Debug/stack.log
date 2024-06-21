@@ -1,0 +1,17 @@
+﻿  stack.cpp
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(326,12): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(285,32): message : 클래스 템플릿 멤버 함수 'T Tstack<T>::pop(int)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(384,14): message : 'main'에서 'Tstack<int>::pop'에 대한 첫 번째 참조를 확인하세요.
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(365,14): message : 컴파일되는 클래스 템플릿 인스턴스화 'Tstack<int>'에 대한 참조를 확인하세요.
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(276,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(245,20): message : 클래스 템플릿 멤버 함수 'T Tstack<T>::pop(void)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+C:\Users\dlwns\source\repos\stack\stack\stack.cpp(383,14): message : 'main'에서 'Tstack<int>::pop'에 대한 첫 번째 참조를 확인하세요.
+  stack.vcxproj -> C:\Users\dlwns\source\repos\stack\x64\Debug\stack.exe
