@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>screen 객체 활용</title>
+    <script>
+        function checkScreen() {
+            if (screen.width < 1280 || screen.height < 1024) {
+                alert("스크린의 해상도가 낮습니다!");
+            }
+                var text = "<span>width :</span>" + screen.width + "<span>height :</span>" + screen.height;
+                var div = document.getElementById("div");
+                div.innerHTML = text;
+            
+        }
+    </script>
+</head>
+<body onload="checkScreen()">
+    <h1>screen 객체 활용</h1>
+    <hr>
+    <p>
+        <pre>2019E7340 
+브라우저 창의 해상도가 1280x1024 보다 작은 경우 웹 페이지가 정상적으로 출력되지 않을 수 있음을 알리는 경고창을 출력한다.</pre>
+    </p>
+    <div id="div"></div>
+</body>
+</html>
