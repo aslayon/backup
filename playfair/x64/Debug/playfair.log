@@ -1,0 +1,4 @@
+﻿  playfair_2.cpp
+C:\Users\dlwns\source\repos\playfair\playfair\playfair_2.cpp(222,18): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\playfair\playfair\playfair_2.cpp(229,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playfair.vcxproj -> C:\Users\dlwns\source\repos\playfair\x64\Debug\playfair.exe

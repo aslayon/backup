@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\dlwns\source\repos\playfair_reprt\playfair_reprt\FileName.cpp(92,11): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'입니다.
+C:\Users\dlwns\source\repos\playfair_reprt\playfair_reprt\FileName.cpp(25,9): warning C4101: 'pair' :참조되지 않은 지역 변수입니다.
+  playfair_reprt.vcxproj -> C:\Users\dlwns\source\repos\playfair_reprt\x64\Debug\playfair_reprt.exe
