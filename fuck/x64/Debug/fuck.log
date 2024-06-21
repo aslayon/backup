@@ -1,0 +1,8 @@
+﻿  FileName.c
+C:\Users\dlwns\source\repos\fuck\fuck\FileName.c(6,1): warning C4005: 'max': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1282,1): message : 'max'의 이전 정의를 참조하십시오.
+C:\Users\dlwns\source\repos\fuck\fuck\FileName.c(99): warning C4715: 'rtn_r_wd': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dlwns\source\repos\fuck\fuck\FileName.c(126): warning C4715: 'rtn_r_bt': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dlwns\source\repos\fuck\fuck\FileName.c(139): warning C4715: 'rtn_sl_loc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dlwns\source\repos\fuck\fuck\FileName.c(170): warning C4715: 'rtn_symbol_bcd': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  fuck.vcxproj -> C:\Users\dlwns\source\repos\fuck\x64\Debug\fuck.exe
