@@ -1,0 +1,54 @@
+﻿  GETARGS.C
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,48): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,17): error C2373: 'wmemchr': 재정의. 형식 한정자가 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h(200,47): message : 'wmemchr' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\GETARGS.C(5,6): warning C4273: 'GetArgs': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(50,14): message : 'GetArgs'의 이전 정의를 참조하십시오.
+  OPTIONS.C
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,48): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,17): error C2373: 'wmemchr': 재정의. 형식 한정자가 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h(200,47): message : 'wmemchr' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\OPTIONS.C(6,7): warning C4273: 'Options': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(42,15): message : 'Options'의 이전 정의를 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\OPTIONS.C(29,6): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PRINTMSG.C
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,48): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,17): error C2373: 'wmemchr': 재정의. 형식 한정자가 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h(200,47): message : 'wmemchr' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\PRINTMSG.C(9,6): warning C4273: 'PrintStrings': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(38,14): message : 'PrintStrings'의 이전 정의를 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\PRINTMSG.C(36,6): warning C4273: 'PrintMsg': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(39,14): message : 'PrintMsg'의 이전 정의를 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\PRINTMSG.C(48,6): warning C4273: 'ConsolePrompt': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(37,14): message : 'ConsolePrompt'의 이전 정의를 참조하십시오.
+  REPRTERR.C
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,48): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,17): error C2373: 'wmemchr': 재정의. 형식 한정자가 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h(200,47): message : 'wmemchr' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\REPRTERR.C(3,6): warning C4273: 'ReportError': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(40,14): message : 'ReportError'의 이전 정의를 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\REPRTERR.C(38,6): warning C4273: 'ReportException': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(41,14): message : 'ReportException'의 이전 정의를 참조하십시오.
+  SKIPARG.C
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,48): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,17): error C2373: 'wmemchr': 재정의. 형식 한정자가 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h(200,47): message : 'wmemchr' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\tail\tail\SKIPARG.C(6,8): warning C4273: 'SkipArg': dll 연결이 일치하지 않습니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(43,16): message : 'SkipArg'의 이전 정의를 참조하십시오.
+  t2ail.c
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\dlwns\source\repos\tail\tail\envirmnt.h(11,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,48): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\dlwns\source\repos\tail\tail\support.h(49,17): error C2373: 'wmemchr': 재정의. 형식 한정자가 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\wchar.h(200,47): message : 'wmemchr' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
