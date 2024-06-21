@@ -1,0 +1,118 @@
+﻿  Money.cpp
+C:\Users\dlwns\source\repos\money\money\LinkedList_int.h(4,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(82,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(92,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(131,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(135,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(156,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(181,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(196,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(246,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(252,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(294,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(299,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(342,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(346,12): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(372,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(376,12): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(408,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(455,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(494,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(509,61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(548,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(552,12): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(586,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(658,47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(692,12): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(718,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(745,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(754,61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(788,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(792,12): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(819,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(825,61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(855,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(859,12): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(885,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(892,61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(924,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(928,12): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(954,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(956,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1021,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1023,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1052,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1054,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1108,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1110,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1161,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1163,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1602,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1608,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1697,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1699,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1711,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1743,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1745,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1757,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\Money.cpp(1794,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+C:\Users\dlwns\source\repos\money\money\LinkedList_int.h(4,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(83,27): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\dlwns\source\repos\money\money\main.cpp(92,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(192,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(225,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(243,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(285,30): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(351,30): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(384,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(401,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(443,30): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(476,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(493,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(536,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(553,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(627,44): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(627,35): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(662,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(679,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(755,43): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(755,34): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(778,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(795,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(813,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(830,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(850,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(867,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(884,16): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(884,16): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(884,16): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(884,16): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(896,31): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(908,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(925,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(948,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(965,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(995,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1012,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1087,40): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1087,31): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1120,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1137,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1187,38): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1220,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1237,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1308,47): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1308,38): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1343,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1361,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1446,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1464,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1472,16): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64 *'입니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1472,16): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1472,16): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1472,16): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(1492,21): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\money\money\main.cpp(57,7): warning C4101: 'Cont' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  money.vcxproj -> C:\Users\dlwns\source\repos\money\x64\Debug\money.exe
