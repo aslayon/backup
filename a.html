@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        span{background-color: darksalmon;}
+        body{background-color: aqua; color:brown;}
+        body table{color: rgb(0, 0, 0);}
+        .test {text-decoration:dotted; text-align:right;text-indent:5em;}
+        p.box{
+            
+            background-color: aliceblue;
+            margin-right:15%;
+            text-indent:8em;
+            text-align:left;
+            text-decoration:dotted;
+            font-weight:800;
+            font-style: italic;
+            margin-left:15%;
+            border-style: solid;
+            padding:10px;
+            border-width:50px;
+            border-color:black;
+        }
+        p.ttest:hover{position:relative;
+            left:15px;
+            top:15px;
+        }
+        p.tttest{position:fixed;
+            bottom:5px;
+            right:5px;    
+        }
+        img.sdf{position:absolute;}
+        #dfg{z-index:-3;left:10px;}
+        #fgh{z-index:0;left:20px;}
+        ol{margin-right:20%;background-color:antiquewhite;
+            padding:10px 10px 10px 50px;
+            border:5px solid black;
+            list-style-image:url("recentchatimage.png");
+            list-style-position:inside;
+
+        }
+        ol li{
+            margin-bottom:3px;
+            background-color:blueviolet;
+            color:black;
+        }
+        #menubar {background-color:olivedrab}
+        #menubar ul{display:inline-block;
+            padding:10px 10px 10px 10px;
+            width:auto;
+        }
+        #menubar li{background-color: beige;color:black;display: inline-block; list-style-type:none;margin-left:5px;}
+        #menubar a{color:black;text-decoration: none;}
+        #menubar a:hover{color:purple;}
+        thead {border:2px solid black ;background-color: aliceblue;}
+        tr{border:2px dotted blue; padding: 10px 10px 10px 10px;text-align:right;width:40px;}
+        tbody tr:nth-child(even) {border:2px dotted blue; padding: 10px 10px 10px 10px;text-align:right;width:40px;background-color: antiquewhite;}
+    </style>
+</head>
+<body>
+    <form name="asdf" method="get">
+        사용자<input type="text" size="15" value="">
+        <br>
+        비밀번호<input type="password" size="15" value="*****">
+        <input type="button"value="send">
+        <label class="test"><br>이름:<br><input type="text" value="elvis"></label>
+        <br>암호:<input type="password" value="****">
+        <br>
+        자소서:<textarea cols="20" rows="4"></textarea>
+        <br>나라:<input type="text" list="a">
+        <datalist id="a">
+            <option value="가나"></option>
+            <option value="스위스"></option>
+        </datalist>
+        <br>검색:<input type="text" value="asdf">
+        <input type="button" value="a">
+        <button type="button">sdf</button>
+        <br>
+        submit:<input type="submit" value="d">
+        <button type="submit">dd</button><br>
+        image:<input type="image" src="recentchatimage.png" alt="대체버튼">
+        <button type="button"><img src="recentchatimage.png" alt="대체버튼"></button>
+        <br>
+        먹고싶은거 체크해라<hr>
+        짜장면<input type="checkbox" value="1">
+        짬ㅂ봉<input type="checkbox" value="2">
+        탕ㄱ수육<input type="checkbox" value="3">
+        <br>
+        하나만체크
+        <br>
+        <input type="radio" name="asdd"value="1">
+        <input type="radio" name="asdd"value="2">
+        <input type="radio" name="asdd"value="3">
+        <br>
+        <select name="sdfg">
+            <option value="1">123</option>
+            <option value="2" selected>234</option>
+            <option value="3">345</option>
+        </select>
+        <input type="color" value="#FFFFFF" onchange="document.body.style.color=this.value">
+        <table><caption>생일 축하해</caption>
+            <thead><tr><th><input type="date" value="2000-11-01"></th></tr></thead>
+            <tbody><tr><td><input type="time"></td></tr>
+                <tr><td><input type="text"></td></tr>
+            </tbody>
+
+        </table>
+        <input type="number" min="0.0" max="10.0" step="0.1" value="5.0">
+        <input type="range" min="0.0" max="10.0" value="5.0" list="4567">
+            <datalist id="4567">
+                <option value="0" label="0"></option>
+                <option value="5" label="5"></option>
+            </datalist>
+        <input type="email" placeholder="id@**.**">    
+    </form>
+    <br><br>
+    <p class="box" style="background-color: aquamarine;">asdfas<span>asdfasdfsaf</span>asdfas</p>
+    <p class="ttest">asdfas</p>
+    <p class="tttest">안녕하세요</p>
+    <img class="sdf" id="dfg" src="recentchatimage.png" alt="alt">
+    <img class="sdf" id="fgh" src="recentchatimage.png" alt="alt">
+    <br>
+    <br>
+    <br>
+    <br>
+    <p style="display:inline-block; overflow:hidden; width:40px; height:20px;">asdlkghjlaskjdghfkjdshgkjsdhfgkdjsghsdkjfghk</p><br>
+    <p style="display:inline-block; overflow:visible; width:40px; height:20px; margin-left:20px;">asdlkghjlaskjdghfkjds</p><br>
+    <p style="display:inline-block; overflow:scroll; width:40px; height:20px; margin-left:40px;">asdlkghjlaskjdghfkjdshgkjsdhfgkdjsghsdkjfghksdjfgh</p>
+    <ol>
+        <li>그런일은</li>
+        <li>절대로</li>
+        <li>없을거라</li>
+        <li>나는 믿을게요</li>
+    </ol>
+    <br>
+    <ol id="menubar">
+        <li id="menubar"><a id="menubar" href="">안녕</a></li>
+        <li id="menubar"><a id="menubar" href="">잘가</a></li>
+        <li id="menubar"><a id="menubar" href="">안녕</a></li>
+        <li id="menubar"><a id="menubar" href="">안녕</a></li>
+    </ol>
+    <table><caption>테이블 꾸미기</caption>
+        <thead><tr><th>이름</th><th>html</th><th>그거</th></tr></thead>
+        <tbody><tr><th>나</th><th>100</th><th>30</th></tr>
+        <tr><th>나</th><th>100</th><th>30</th></tr>
+        <tr><th>나</th><th>100</th><th>30</th></tr>
+        <tr><th>나</th><th>100</th><th>30</th></tr></tbody>
+    </table>
+</body>
+</html>

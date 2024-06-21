@@ -1,0 +1,7 @@
+learning 0
+skeleton 2
+mainland 3
+scaffold 4
+bracelet 5
+exercise 6
+bifocals 7

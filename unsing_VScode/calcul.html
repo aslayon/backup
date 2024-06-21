@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>계산기 만들기</title>
+    <style>
+        
+    </style>
+    <script>
+        function calculate() {
+            var exp = document.getElementById("result");
+            var res = exp.value;
+            exp.value = eval(res);
+        }
+        function num_or_symbol(src){
+            var exp = document.getElementById("result");
+            if(exp.value != "0"){
+                exp.value = exp.value + src.value;
+            }
+
+            else{
+                exp.value = src.value;
+            }
+        }
+        function C_CE(){
+            var exp = document.getElementById("result");
+            result.value = "0"
+        }
+        function BACK(){
+            var exp = document.getElementById("result");
+            var tmp = exp.value;
+            tmp = tmp.substring(0,tmp.length -1);
+            exp.value = tmp;
+        }
+        </script>
+        
+</head>
+<body>
+    <p>계산기 만들기</p><hr>
+    <form>
+        <input type="text" value="0" style="width:300px" id="result">
+        <div display="inline-block">
+                
+            <td><input style="width:50px; margin-left:15px;" type="button" value="BACK" class="calbutton" onclick="BACK()"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="CE" class="calbutton" onclick="C_CE()"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="C" class="calbutton" onclick="C_CE()"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="=" class="calbutton" onclick="calculate()"></td>
+                
+        </div>    
+        <div display="inline-block">
+                
+            <td><input style="width:50px; margin-left:15px;" type="button" value="7" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="8" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="9" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="/" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            
+        </div>  
+
+        <div display="inline-block">
+                
+            <td><input style="width:50px; margin-left:15px;" type="button" value="4" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="5" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="6" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="*" class="calbutton"  onclick="num_or_symbol(this)"></td>
+        
+        </div>  
+
+        <div display="inline-block">
+                
+            <td><input style="width:50px; margin-left:15px;" type="button" value="1" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="2" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="3" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="-" class="calbutton"  onclick="num_or_symbol(this)"></td>
+    
+        </div>
+        
+        <div display="inline-block">
+                
+            <td><input style="width:50px; margin-left:15px;" type="button" value="0" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="+" class="calbutton"  onclick="num_or_symbol(this)"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="NONE" class="calbutton"></td>
+            <td><input style="width:50px; margin-left:15px;" type="button" value="NONE" class="calbutton"></td>
+    
+        </div>
+    </form>
+</body>
+</html>

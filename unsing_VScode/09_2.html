@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p>test</p>
+    <hr>
+    <img id="myImage" src="a.png" onclick="scaleImage()">
+    
+    <script>
+        let scale = 2;
+        const image = document.getElementById("myImage");
+
+        function scaleImage() {
+            scale += 1; 
+            image.style.transform = `scale(${scale}, 1)`;
+        }
+    </script>
+</body>
+</html>

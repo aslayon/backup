@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table{
+            width: 100%;
+        }
+        label>label {
+            text-align: right;
+        }
+        tr {
+            width: 100%;
+            text-align: right;
+        }
+        td{
+            width: 50%;
+            text-align: right;
+        }
+    </style>
+   
+    <title>폼으로 도형그리기</title>
+</head>
+<body>
+    <h1>폼으로 원호 그리기</h1>
+    <hr>
+    <form>
+        <table><tbody>
+            <tr><td><label id="left">x<input id="x" type="text" value=""></label></td>
+                <td><label id="right">y<input id="y" type="text" value=""></label></td></tr>
+               
+            <tr>
+                <td><label id="left">반지름<input id="r" type="text" value=""></label></td>
+                    <td>
+                        방향
+                        <select name="deg" id="deg">
+                            <option value="false" selected>시계방향</option>
+                            <option value="true">반시계방향</option>
+                        </select>
+                    </td>
+            </tr>
+        
+            <tr>
+                <td><label id="left">시작각도<input id="start" type="text" value=""></label></td>
+                    <td><label id="right">끝각도<input id="end" type="text" value=""></label></td>
+            </tr>
+        
+            <tr>
+                <td><label id="left">선굵기<input id="thick" type="text" value=""></label></td>
+                    <td><label id="right">선색<input id="color" type="color"></label></td>
+            </tr>
+            <tr>
+                <td><label id="left"><button id="draw" type="button"  onclick="asdf()" >그리기</button></label></td>
+                    <td><label id="right"><button id="delete" type="button" onclick="erase()">지우기</button></label></td>
+            </tr>
+      
+    </tbody></table>
+    </form>
+    <canvas id="mycanvas" style="background-color: aliceblue; width: 100%; height: 300;">
+    </canvas>
+    <script>
+        function asdf(){
+        var canvas = document.getElementById("mycanvas");
+        var context = canvas.getContext("2d");
+
+        var x = document.getElementById("x");
+        var y = document.getElementById("y");
+        var r = document.getElementById("r");
+        var deg = document.getElementById("deg")
+        var start = document.getElementById("start");
+        var end = document.getElementById("end");
+        var color = document.getElementById("color");
+        
+        if(deg.value == "true"){
+            deg = true
+        }
+        if(deg.value == "false"){
+            deg = false
+        }
+        context.beginPath();
+        context.strokeStyle= color.value
+        context.arc(x.value,y.value,r.value,Math.PI*start.value/180,Math.PI*end.value/180,deg);
+        context.stroke();
+        }
+
+        function erase(){
+            var canvas = document.getElementById("mycanvas");
+            var context = canvas.getContext("2d");
+
+            context.clearRect(0,0,canvas.width,canvas.height);
+        }
+    </script>
+</body>
+</html>
