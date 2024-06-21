@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\dlwns\source\repos\Project9\Project9\FileName.c(6,1): warning C4005: 'max': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(1282,1): message : 'max'의 이전 정의를 참조하십시오.
+C:\Users\dlwns\source\repos\Project9\Project9\FileName.c(103,9): warning C4101: 'MAC_start' :참조되지 않은 지역 변수입니다.
+  Project9.vcxproj -> C:\Users\dlwns\source\repos\Project9\x64\Debug\Project9.exe
