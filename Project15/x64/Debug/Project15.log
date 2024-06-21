@@ -1,0 +1,18 @@
+﻿  소스.cpp
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(32,30): error C2440: '=': 'const char [8]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(32,30): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(38,12): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'const char [8]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(38,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4437,1): message : 'CreateWindowExW' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(38,12): message : 인수 목록 '(long, const char [8], const char [5], long, int, int, int, int, int, HMENU, HINSTANCE, int)'을(를) 일치시키는 동안
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(59,19): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(78,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(85,9): error C2664: 'BOOL GetTextExtentPointW(HDC,LPCWSTR,int,LPSIZE)': 인수 2을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(85,33): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(4241,1): message : 'GetTextExtentPointW' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(85,9): message : 인수 목록 '(HDC, char [260], int, SIZE *)'을(를) 일치시키는 동안
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(106,9): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(106,32): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(5147,25): message : 'TextOutW' 선언을 참조하십시오.
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(106,9): message : 인수 목록 '(HDC, int, int, char [260], size_t)'을(를) 일치시키는 동안
+C:\Users\dlwns\source\repos\Project15\Project15\소스.cpp(74,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
